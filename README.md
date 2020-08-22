@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi I am Shuo Zhuang 👋
+- a senior backend engineer.
+- currently in Shenzhen, China.
 
-<!--
-**sosozhuang/sosozhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+- Java
+- Go
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+- High performance programing
+- Spring Cloud/Spring Boot
+- Netty
+- Kubernetes/Docker
+- Kafka/Elasticsearch/Redis/MySQL/Nginx
+- Ceph
+- Prometheus
+- Paxos
